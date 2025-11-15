@@ -1,0 +1,23 @@
+{
+  "name": "basic-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emre-Oktay/node-basic-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emre-Oktay/node-basic-site/issues"
+  },
+  "homepage": "https://github.com/Emre-Oktay/node-basic-site#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
